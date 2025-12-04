@@ -159,50 +159,6 @@ class ProfilePage extends StatelessWidget {
               ], 
             ),
           ),      
-
-  
-      // body: SingleChildScrollView(
-      //   child: Column(
-      //     children: [
-      //       Center(
-      //         child: Container(
-      //           height: 600, 
-      //           width: 500,
-      //           margin: EdgeInsets.all(20),
-      //           padding: EdgeInsets.all(20),
-      //           alignment: Alignment.bottomCenter,
-      //           decoration: BoxDecoration(
-      //             color: const Color.fromARGB(255, 179, 171, 143),
-      //             border: Border.all(color: const Color.fromARGB(255, 174, 144, 117), width: 5,),
-      //             //borderRadius: BorderRadius.all(Radius.circular(30)),
-      //             gradient: RadialGradient(colors:[Colors.white, const Color.fromARGB(255, 225, 208, 183)], )
-      //             ),
-                 
-      //           child: SingleChildScrollView(
-      //             child: Column(
-      //               children: [
-      //                 Image.network("https://wallpapers.com/images/hd/y2k-grunge-collage-music-and-memories-17qjfcnaoebnhy3m.jpg"),
-      //                 Text("Container Widget", style: GoogleFonts.namdhinggo(color: Colors.white),),
-      //               ],
-      //             ),
-      //           ),
-      //         ),
-      //       ),
-      //       SizedBox(
-      //         height: 200,
-      //         width: 200,
-      //         child: Card(
-      //           color: const Color.fromARGB(255, 137, 59, 53),
-      //           shape: CircleBorder(),
-      //         child: Padding(
-      //           padding: const EdgeInsets.all(8.0),
-      //           child: Text("Hello card"),
-      //           ),
-      //         ),
-      //       )
-      //     ],
-      //   ),
-      // ) 
     );
   }
 }
